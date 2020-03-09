@@ -32,11 +32,11 @@
     transition: all 0.2s linear;
   }
   
-  /* .item:hover {
+  .item:hover {
     transform: scale(1.03);
     box-shadow: 7px 8px 33px -4px rgba(0, 0, 0, 0.75);
     cursor: pointer;
-  } */
+  }
   .avatar {
     border-radius: 5px;
   }
